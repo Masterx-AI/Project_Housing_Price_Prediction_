@@ -59,9 +59,9 @@ Belsley D.A., Kuh, E. and Welsch, R.E. (1980) Regression Diagnostics. Identifyin
 
 ![image](https://user-images.githubusercontent.com/54996245/144111455-2eb0f410-6301-41be-bac6-a34fa00da180.png)
 
-**9. Predictions**
+<!-- **9. Predictions**
 
-![image](https://user-images.githubusercontent.com/54996245/142776716-722f804a-6b40-4ebe-99a7-0b8cef3989ae.png)
+![image](https://user-images.githubusercontent.com/54996245/142776716-722f804a-6b40-4ebe-99a7-0b8cef3989ae.png) -->
 
 
 **10. ML Algorithm's Scores Comparison (R2& RMSE) for the Ad Budge Dataset**
